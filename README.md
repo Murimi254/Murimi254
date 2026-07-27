@@ -1,33 +1,143 @@
-<h1 align="center">Hi 👋, I'm Dennis Murimi</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="center">Hi there 👋, I'm Dennis Murimi</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murimi254&label=Profile%20views&color=0e75b6&style=flat" alt="murimi254" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murimi254" alt="murimi254" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/solovoi254" target="blank"><img src="https://img.shields.io/twitter/follow/solovoi254?logo=twitter&style=for-the-badge" alt="solovoi254" /></a> </p>
-
-- 🌱 I’m currently learning **Real-time communication using web sockets.**
-
-- 👯 I’m looking to collaborate on **any JavaScript, TypeScript,Nodejs and React.**
-
-- 💬 Ask me about any **React,JavaScript,TypeScript,Nodejs topic.,MongoDb**
-
-- 📫 How to reach me **dennis.nmurimi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/solovoi254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solovoi254" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dennis murimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dennis murimi" height="30" width="40" /></a>
+<p align="center">
+  <strong>Backend Software Engineer</strong><br>
+  Building secure APIs, scalable backend systems, and modern full-stack applications.
 </p>
 
+<p align="center">
+  <a href="https://github.com/murimi254">GitHub</a> •
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
+  <a href="https://YOUR-PORTFOLIO">Portfolio</a> •
+  <a href="mailto:dennis.nmurimi@gmail.com">Email</a>
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+---
 
+# 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murimi254&show_icons=true&locale=en&layout=compact" alt="murimi254" /></p>
+I'm a Software Engineer with a strong focus on backend development and full-stack application design. I enjoy building secure, scalable, and maintainable software using modern technologies such as Node.js, TypeScript, PostgreSQL, MongoDB, and React.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murimi254&show_icons=true&locale=en" alt="murimi254" /></p>
+My interests include API engineering, database design, system integration, authentication, and software architecture. I enjoy solving real-world problems through clean code, thoughtful system design, and continuous learning.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murimi254&" alt="murimi254" /></p>
+---
+
+# 🛠 Tech Stack
+
+## Backend
+
+- Node.js
+- Express.js
+- TypeScript
+- JavaScript
+- REST APIs
+- JWT Authentication
+- Prisma ORM
+- Mongoose
+- Zod
+
+## Frontend
+
+- React
+- Next.js
+- Vite
+- Redux Toolkit
+- Tailwind CSS
+
+## Mobile
+
+- React Native
+- Expo
+
+## Databases
+
+- PostgreSQL
+- MongoDB
+
+## Cloud
+
+- Supabase
+- Render
+- Vercel
+- Cloudinary
+
+## Tools & Practices
+
+- Git
+- GitHub
+- Linux
+- Postman
+- Swagger / OpenAPI
+- Agile
+- RESTful API Design
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 Ecommerce Platform
+
+A production-ready ecommerce application featuring secure authentication, product management, shopping cart functionality, order processing, AI-powered product assistance, and M-Pesa payment integration.
+
+**Tech:** React • TypeScript • Node.js • Express • PostgreSQL • Prisma
+
+---
+
+## 🔐 JWT Authentication Service
+
+A stateless authentication backend implementing JWT access tokens, refresh token rotation, httpOnly cookies, bcrypt password hashing, middleware-based route protection, and secure authentication workflows.
+
+**Tech:** Node.js • Express • TypeScript • MongoDB
+
+---
+
+## 💳 M-Pesa Daraja Integration
+
+A secure implementation of Safaricom's Daraja API supporting STK Push, callback handling, payment verification, and transaction reconciliation.
+
+**Tech:** Node.js • TypeScript • Express
+
+---
+
+---
+
+# 🌱 Currently Learning
+
+- Docker
+- Kubernetes
+- Cloud Engineering
+- Distributed Systems
+- Advanced System Design
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murimi254&show_icons=true&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murimi254&layout=compact&hide_border=true" />
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- Build scalable backend systems.
+- Deepen my expertise in cloud-native development.
+- Contribute to impactful open-source projects.
+- Advance my knowledge of distributed systems and software architecture.
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in connecting with fellow developers, collaborating on interesting projects, and discussing backend engineering, distributed systems, and software architecture.
+
+📧 **Email:** dennis.nmurimi@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/dennis-murimi-7886b91b3
+
+🌐 **Portfolio:** https://murimi254-portfolio-website.vercel.app/
