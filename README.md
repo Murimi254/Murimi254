@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://github.com/murimi254">GitHub</a> •
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
-  <a href="https://YOUR-PORTFOLIO">Portfolio</a> •
+  <a href="https://linkedin.com/in/dennis-murimi-7886b91b3">LinkedIn</a> •
+  <a href="https://murimi254-portfolio-website.vercel.app/">Portfolio</a> •
   <a href="mailto:dennis.nmurimi@gmail.com">Email</a>
 </p>
 
@@ -29,12 +29,6 @@ My interests include API engineering, database design, system integration, authe
 - Node.js
 - Express.js
 - TypeScript
-- JavaScript
-- REST APIs
-- JWT Authentication
-- Prisma ORM
-- Mongoose
-- Zod
 
 ## Frontend
 
@@ -103,32 +97,20 @@ A secure implementation of Safaricom's Daraja API supporting STK Push, callback 
 
 # 🌱 Currently Learning
 
-- Docker
-- Kubernetes
-- Cloud Engineering
-- Distributed Systems
-- Advanced System Design
+I'm currently participating in the **Google Cloud Career Launchpad** by **Mentor Me Collective**, delivered in partnership with **Google Cloud**, where I'm developing hands-on cloud engineering skills through Google Cloud Skills Boost labs, guided projects, and certification preparation.
 
 ---
 
-# 📈 GitHub Stats
+# 🎯 Engineering Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murimi254&show_icons=true&hide_border=true&rank_icon=github" />
-</p>
+I'm particularly interested in:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murimi254&layout=compact&hide_border=true" />
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- Build scalable backend systems.
-- Deepen my expertise in cloud-native development.
-- Contribute to impactful open-source projects.
-- Advance my knowledge of distributed systems and software architecture.
+- Backend Engineering
+- API Design
+- Database Engineering
+- Cloud Computing
+- System Design
+- Financial Technology (FinTech)
 
 ---
 
